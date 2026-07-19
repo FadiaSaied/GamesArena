@@ -34,6 +34,8 @@ https://fadiasaied.github.io/GamesArena/
 
 
 ### Mobile
-<img width="264" height="592" alt="Mobile Hero" src="https://github.com/user-attachments/assets/4212b72d-0323-4b73-b7b0-74e421ce8ed5" />
-<img width="258" height="567" alt="Mobile Team" src="https://github.com/user-attachments/assets/c207881c-48e6-47d8-8432-875dace3bf08" />
-<img width="255" height="582" alt="Mobile Contact" src="https://github.com/user-attachments/assets/e6815b43-0f1d-449e-a37d-e406f7197401" />
+
+<img width="260" height="556" alt="Mobile Hero" src="https://github.com/user-attachments/assets/7f384545-e9e8-42f4-a219-2d93d8c70bb9" />
+<img width="258" height="567" alt="Mobile Team" src="https://github.com/user-attachments/assets/e93f3ad0-a4d1-4df0-b3e8-56eba4ad0341" />
+<img width="255" height="555" alt="Mobile Contact" src="https://github.com/user-attachments/assets/f6c5e966-2828-4534-be48-066738c3ec9b" />
+
