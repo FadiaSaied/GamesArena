@@ -24,26 +24,16 @@ https://fadiasaied.github.io/GamesArena/
 ## Preview
 
 ### Desktop
+<img width="1292" height="653" alt="Hero Section" src="https://github.com/user-attachments/assets/e7cd9a54-63d8-451a-8827-96e163362268" />
+<img width="1292" height="653" alt="Our Games" src="https://github.com/user-attachments/assets/46d703e3-c7c3-4200-9d06-19edd36a9ec7" />
+<img width="1292" height="651" alt="What We Do" src="https://github.com/user-attachments/assets/24d6c102-8ac9-4061-a998-4d1670ca4000" />
+<img width="1292" height="651" alt="Scrolling Logos" src="https://github.com/user-attachments/assets/15152ff4-60f4-4dd8-a573-be2e341e62a2" />
 
-![Hero](<img width="1292" height="653" alt="Hero Section" src="https://github.com/user-attachments/assets/7f4d8618-612f-482c-bb7b-e4982edca8ad" />
-)
 
-![Our Games](<img width="1292" height="653" alt="Our Games" src="https://github.com/user-attachments/assets/030ae5a1-eb60-489c-b609-6b0fa6138226" />
-)
 
-![What We Do](<img width="1292" height="651" alt="What We Do" src="https://github.com/user-attachments/assets/c65c29c4-8601-4ce0-b843-3c656a54390e" />
-)
 
-![Scrolling Logos](<img width="1292" height="651" alt="Scrolling Logos" src="https://github.com/user-attachments/assets/37b080d1-d82c-418a-a6c3-98630ae34114" />
-)
 
 ### Mobile
-
-![Mobile Hero](<img width="264" height="592" alt="Mobile Hero" src="https://github.com/user-attachments/assets/db4d3840-e775-4584-a428-8e6ad5884505" />
-)
-
-![Mobile Team](<img width="258" height="567" alt="Mobile Team" src="https://github.com/user-attachments/assets/d1448340-bbae-429d-83bd-73ecea62d273" />
-)
-
-![Mobile Contact](<img width="255" height="582" alt="Mobile Contact" src="https://github.com/user-attachments/assets/94703745-5a13-4e64-8d26-f50e13a53217" />
-)
+<img width="264" height="592" alt="Mobile Hero" src="https://github.com/user-attachments/assets/4212b72d-0323-4b73-b7b0-74e421ce8ed5" />
+<img width="258" height="567" alt="Mobile Team" src="https://github.com/user-attachments/assets/c207881c-48e6-47d8-8432-875dace3bf08" />
+<img width="255" height="582" alt="Mobile Contact" src="https://github.com/user-attachments/assets/e6815b43-0f1d-449e-a37d-e406f7197401" />
