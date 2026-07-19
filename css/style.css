@@ -92,7 +92,6 @@ p {
   color: var(--color-white);
 }
 .mainTitle h3 span {
-  display: block;
   font-size: inherit;
   font-weight: inherit;
   color: var(--main-color);
